@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cit.tum.de/en/'>Technical University of Munich - School of Computation, Information and Technology</a>.
+subtitle: <a href='https://www.cit.tum.de/en/'>Technical University of Munich</a>.
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Chair for Decentralized Information Systems and Data Management</p>
     <p>Boltzmannstr. 3</p>
-    <p>85748 Garching bei München, Germany</p>
+    <p>85748 Garching, Germany</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
