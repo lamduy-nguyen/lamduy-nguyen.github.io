@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching materials
+title: teaching
 nav: true
 nav_order: 6
 ---
